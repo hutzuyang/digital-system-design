@@ -25,7 +25,7 @@ This FPGA project uses the following input files:
 Once programmed on the FPGA board:
 
 * **VGA display** shows an 8x8 tile-based game world
-<img src="![image](https://github.com/user-attachments/assets/4e187ba6-9267-40d5-9beb-739cb366a4bb)" width="50%" height="50%">
+<img src="![螢幕擷取畫面 2025-06-06 020526](https://github.com/user-attachments/assets/f7898574-7ffa-469a-9060-accd49280606)" width="50%" height="50%">
 * **Seven-segment displays** show game stats:
 
   * Current stage
@@ -100,13 +100,13 @@ Upload and run with Vivado:
 * Use bomb type 1 only (F)
 * At least 1 rescue target
 * Countdown 30s, each rescue +3s, hit by bomb = fail
-<img src="![image](https://github.com/user-attachments/assets/e92b4f89-53aa-482c-a654-e2c8d4e23c89)" width="50%" height="50%">
+<img src="![螢幕擷取畫面 2025-06-06 021231](https://github.com/user-attachments/assets/ce0e7983-cd0b-405a-9398-bf312129b78b)" width="50%" height="50%">
 
 ### Stage 2:
 
 * Mix of obstacles and enemies
 * Must match bomb type to enemy:
-<img src="![image](https://github.com/user-attachments/assets/9d4a6563-2ea3-469b-954c-a087477360f4)" width="50%" height="50%">
+<img src="![螢幕擷取畫面 2025-06-06 021340](https://github.com/user-attachments/assets/b5ebe6e2-f524-4b46-8554-27e5a9aa983c)" width="50%" height="50%">
 
 * Incorrect bomb = no effect
 * Rescue all targets within time
@@ -116,9 +116,9 @@ Upload and run with Vivado:
 Below is an example of the VGA output map (8x8 grid):
 
 * Stage 1:
-<img src="![image](https://github.com/user-attachments/assets/4e187ba6-9267-40d5-9beb-739cb366a4bb)" width="50%" height="50%">
+<img src="![螢幕擷取畫面 2025-06-06 020526](https://github.com/user-attachments/assets/7413ecb1-3ba8-4061-864d-1421c5bb169d)" width="50%" height="50%">
 * Stage 2:
-<img src="![image](https://github.com/user-attachments/assets/34b364f6-5033-4fc5-9b4a-3f11b65ea167)" width="50%" height="50%">
+<img src="![螢幕擷取畫面 2025-06-06 022929](https://github.com/user-attachments/assets/b3149bbc-c52d-4df9-aa47-ac8ee74523e9)" width="50%" height="50%">
 
 ---
 

@@ -36,6 +36,7 @@ Once programmed on the FPGA board:
   * Selected bomb type
 
 * **LEDs** blink with different animations indicating win/loss
+<img src="https://github.com/user-attachments/assets/440b8822-3eac-471c-9e0d-3ca51c0ba1dd" width="50%" height="50%">
 
 ## 🧰 Project Structure
 

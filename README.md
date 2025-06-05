@@ -117,6 +117,7 @@ Below is an example of the VGA output map (8x8 grid):
 
 * Stage 1:
 <img src="![螢幕擷取畫面 2025-06-06 020526](https://github.com/user-attachments/assets/7413ecb1-3ba8-4061-864d-1421c5bb169d)" width="50%" height="50%">
+
 * Stage 2:
 <img src="![螢幕擷取畫面 2025-06-06 022929](https://github.com/user-attachments/assets/b3149bbc-c52d-4df9-aa47-ac8ee74523e9)" width="50%" height="50%">
 

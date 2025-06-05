@@ -26,6 +26,7 @@ Once programmed on the FPGA board:
 
 * **VGA display** shows an 8x8 tile-based game world
 <img src="https://github.com/user-attachments/assets/f7898574-7ffa-469a-9060-accd49280606" width="50%" height="50%">
+
 * **Seven-segment displays** show game stats:
 
   * Current stage
@@ -33,6 +34,7 @@ Once programmed on the FPGA board:
   * Rescue countdown
   * Remaining targets
   * Selected bomb type
+
 * **LEDs** blink with different animations indicating win/loss
 
 ## 🧰 Project Structure
@@ -106,7 +108,7 @@ Upload and run with Vivado:
 
 * Mix of obstacles and enemies
 * Must match bomb type to enemy:
-<img src="https://github.com/user-attachments/assets/b5ebe6e2-f524-4b46-8554-27e5a9aa983c" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/8092c262-67a0-44ea-8b12-a398762a28df" width="50%" height="50%">
 
 * Incorrect bomb = no effect
 * Rescue all targets within time
